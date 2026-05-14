@@ -1,0 +1,10 @@
+[packversionminrev]
+	#Pack Minor Version Revision : X
+	# Default: 0
+	# Range: 0 ~ 32768
+	minorrev = 0
+
+[discord]
+	#Enable Discord Rich Prescence
+	discord = true
+

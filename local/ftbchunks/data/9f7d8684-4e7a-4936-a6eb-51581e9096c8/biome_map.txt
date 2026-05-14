@@ -1,0 +1,8 @@
+#572 terralith:arid_highlands
+#556 minecraft:beach
+#184 terralith:brushland
+#0E5 terralith:highlands
+#79A minecraft:lukewarm_ocean
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna

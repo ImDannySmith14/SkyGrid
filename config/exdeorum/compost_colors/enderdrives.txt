@@ -1,0 +1,13 @@
+// Compost colors for enderdrives. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ender_disk_16k, #47796f
+ender_disk_1k, #486f79
+ender_disk_256k, #517c5e
+ender_disk_4k, #55767c
+ender_disk_64k, #437562
+ender_disk_creative, #48615c
+ender_storage_component_16k, #5b9d75
+ender_storage_component_1k, #58915f
+ender_storage_component_256k, #5b9e73
+ender_storage_component_4k, #55946c
+ender_storage_component_64k, #5b9d73
+tape_disk, #5f5b66
